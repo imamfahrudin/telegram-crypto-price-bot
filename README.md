@@ -20,7 +20,7 @@ Create a `.env` file in the root directory of the project with the following var
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telegram-crypto-price-bot.git
+   git clone https://github.com/imamfahrudin/telegram-crypto-price-bot.git
    cd telegram-crypto-price-bot
    ```
 2. Create and activate a virtual environment (recommended):

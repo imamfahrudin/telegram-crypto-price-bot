@@ -1,0 +1,6 @@
+services:
+  crypto-bot:
+    build: .
+    env_file:
+      - .env
+    restart: always
